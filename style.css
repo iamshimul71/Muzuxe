@@ -1,0 +1,35 @@
+.navbar{
+
+    box-shadow: 2px 2px 5px #3292a6;
+    background: #fff;
+    opacity:0.9;
+}
+.nav-item{
+    font-size: 1.4rem;
+    padding-right: 20px;
+}
+.nav-link{
+    color:#252525 !important;
+}
+.nav-link:hover{
+    color:#3292a6 !important;
+}
+#showcase{
+    background-image:linear-gradient(#3292a694,#3292a694), url(img/mountains.jpg);
+}
+#subscribe{
+    background:#252525;
+}
+#author img{
+    margin-top: -50px !important;
+}
+.card-bg:hover{
+    background:#3292A6;
+    color:#fff ;
+}
+.size{
+    font-size:30px;
+}
+.size:hover{
+    color: #fff;
+}
